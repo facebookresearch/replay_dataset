@@ -1,0 +1,25 @@
+{
+  "full": {
+    "metadata": [
+      "https://dl.fbaipublicfiles.com/replay/v0/metadata.zip"
+    ],
+    "videos": [
+      "https://dl.fbaipublicfiles.com/replay/v0/videos_SC-1001-1007.zip",
+      "https://dl.fbaipublicfiles.com/replay/v0/videos_SC-1008-1018.zip",
+      "https://dl.fbaipublicfiles.com/replay/v0/videos_SC-1019-1028.zip",
+      "https://dl.fbaipublicfiles.com/replay/v0/videos_SC-1032-1044.zip",
+      "https://dl.fbaipublicfiles.com/replay/v0/videos_SC-1045-1052.zip",
+      "https://dl.fbaipublicfiles.com/replay/v0/videos_SC-1053-1071.zip",
+      "https://dl.fbaipublicfiles.com/replay/v0/videos_SC-1073-1079.zip",
+      "https://dl.fbaipublicfiles.com/replay/v0/videos_SC-1081-1091.zip",
+      "https://dl.fbaipublicfiles.com/replay/v0/videos_SC-1092-1104.zip",
+      "https://dl.fbaipublicfiles.com/replay/v0/videos_SC-1105-1109.zip"
+    ],
+    "masks": [
+      "https://dl.fbaipublicfiles.com/replay/v0/mask_videos_SC-1001-1109.zip"
+    ],
+    "audio": [
+      "https://dl.fbaipublicfiles.com/replay/v0/audio_SC-1001-1109.zip"
+    ]
+  }
+}
